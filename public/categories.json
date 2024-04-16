@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "image": "../public/Health.png",
+    "image2": "../public/Rectangle 4284.png",
+    "title": "Clean water for children",
+    "category": "health",
+    "description": "Improve your well-being with our range of health products.",
+    "price": "$50",
+    "categoryBackgroundColor": "#c2d5ff",
+    "cardBackgroundColor": "#0052ff",
+    "textColor": "#4984ff"
+   
+  },
+  {
+    "id": 2,
+    "image": "../public/Education.png",
+    "image2": "../public/Rectangle 4287-1.png",
+    "title": "Good Education",
+    "category": "education",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$30",
+    "categoryBackgroundColor": "#ffd2d4",
+    "cardBackgroundColor": "#ff444a",
+    "textColor": "#ff676c"
+  },
+  {
+    "id": 3,
+    "image": "../public/Clothing.png",
+    "image2": "../public/Rectangle 4287.png",
+    "title": "Stylish Clothing",
+    "category": "clothing",
+    "description": "Stay fashionable with our latest clothing collection.",
+    "price": "$70",
+    "categoryBackgroundColor": "#def1d1",
+    "cardBackgroundColor": "#79c23f",
+    "textColor": "#95cf67"
+  },
+  {
+    "id": 4,
+    "image": "../public/Food.png",
+    "image2": "../public/Rectangle 4287-2.png",
+    "title": "Delicious Food",
+    "category": "food",
+    "description": "Satisfy your cravings with our tasty food options.",
+    "price": "$20",
+    "categoryBackgroundColor": "#fdddd3",
+    "cardBackgroundColor": "#f87147",
+    "textColor": "#f98c6a"
+  },
+  {
+    "id": 5,
+    "image": "../public/Food.png",
+    "image2": "../public/Rectangle 4287-2.png",
+    "title": "Organic Groceries",
+    "category": "food",
+    "description": "Shop for organic groceries and eat healthier.",
+    "price": "$40",
+    "categoryBackgroundColor": "#fdddd3",
+    "cardBackgroundColor": "#f87147",
+    "textColor": "#f98c6a"
+  },
+  {
+    "id": 6,
+    "image": "../public/Clothing.png",
+    "image2": "../public/Rectangle 4287.png",
+    "title": "Casual Wear",
+    "category": "clothing",
+    "description": "Upgrade your wardrobe with our comfortable casual wear.",
+    "price": "$60",
+    "categoryBackgroundColor": "#def1d1",
+    "cardBackgroundColor": "#79c23f",
+    "textColor": "#95cf67"
+  },
+  {
+    "id": 7,
+    "image": "../public/Education.png",
+    "image2": "../public/Rectangle 4287-1.png",
+    "title": "Good Education",
+    "category": "education",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$50",
+    "categoryBackgroundColor": "#ffd2d4",
+    "cardBackgroundColor": "#ff444a",
+    "textColor": "#ff676c"
+  },
+  {
+    "id": 8,
+    "image": "../public/Health.png",
+    "image2": "../public/Rectangle 4284.png",
+    "title": "Clean water for children",
+    "category": "health",
+    "description": "Achieve your fitness goals with our high-quality equipment.",
+    "price": "$100",
+    "categoryBackgroundColor": "#c2d5ff",
+    "cardBackgroundColor": "#0052ff",
+    "textColor": "#4984ff"
+  },
+  {
+    "id": 9,
+    "image": "../public/Health.png",
+    "image2": "../public/Rectangle 4284.png",
+    "title": "Clean water for children",
+    "category": "health",
+    "description": "Enhance your yoga practice with our range of accessories.",
+    "price": "$80",
+    "categoryBackgroundColor": "#c2d5ff",
+    "cardBackgroundColor": "#0052ff",
+    "textColor": "#4984ff"
+  },
+  {
+    "id": 10,
+    "image": "../public/Education.png",
+    "image2": "../public/Rectangle 4287-1.png",
+    "title": "Good Education",
+    "category": "education",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$35",
+    "categoryBackgroundColor": "#ffd2d4",
+    "cardBackgroundColor": "#ff444a",
+    "textColor": "#ff676c"
+  },
+  {
+    "id": 11,
+    "image": "../public/Clothing.png",
+    "image2": "../public/Rectangle 4287.png",
+    "title": "Trendy Outfits",
+    "category": "clothing",
+    "description": "Showcase your style with our trendy outfits.",
+    "price": "$75",
+    "categoryBackgroundColor": "#def1d1",
+    "cardBackgroundColor": "#79c23f",
+    "textColor": "#95cf67"
+  },
+  {
+    "id": 12,
+    "image": "../public/Food.png",
+    "image2": "../public/Rectangle 4287-2.png",
+    "title": "Gourmet Foods",
+    "category": "food",
+    "description": "Indulge in gourmet foods and elevate your dining experience.",
+    "price": "$50",
+    "categoryBackgroundColor": "#fdddd3",
+    "cardBackgroundColor": "#f87147",
+    "textColor": "#f98c6a"
+  }
+]
